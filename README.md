@@ -21,4 +21,4 @@
 ### Prerequisites
 
 - Arduino IDE
-- Hardware: Raspberry Pi, Arduino Nano, Gyroscope sensors, VR headset, Bluetooth modules
+- Hardware: Raspberry Pi, Arduino Uno, Gyroscope sensors, VR headset, Bluetooth modules
